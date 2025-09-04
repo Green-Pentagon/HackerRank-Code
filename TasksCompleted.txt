@@ -1,3 +1,5 @@
 This Solution contains solutions to the following problems:
 
-- Forming Magic Square = 2025-09-04\Solutions-CSharp https://www.hackerrank.com/challenges/magic-square-forming
+- Forming Magic Square = 2025-09-04 https://www.hackerrank.com/challenges/magic-square-forming
+- Super Reduced Strings = 2025-09-04 https://www.hackerrank.com/challenges/reduced-string
+- Two (Alternating) Characters = 2025-09-04 https://www.hackerrank.com/challenges/two-characters
