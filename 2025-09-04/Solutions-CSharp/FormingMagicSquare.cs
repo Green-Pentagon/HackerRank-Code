@@ -185,17 +185,17 @@ static int formingMagicSquare(List<List<int>> s)
 
 
 //===============================================
-void main()
-{
-    List<List<int>> magicSquareIn = new List<List<int>>()
-    {
-        new List<int> { 5, 3, 4 },
-        new List<int> { 1, 5, 8 },
-        new List<int> { 6, 4, 2 }
-    };
+//void main()
+//{
+//    List<List<int>> magicSquareIn = new List<List<int>>()
+//    {
+//        new List<int> { 5, 3, 4 },
+//        new List<int> { 1, 5, 8 },
+//        new List<int> { 6, 4, 2 }
+//    };
 
-    Console.WriteLine(formingMagicSquare(magicSquareIn));
+//    Console.WriteLine(formingMagicSquare(magicSquareIn));
 
-}
+//}
 
-main();
+//main();
