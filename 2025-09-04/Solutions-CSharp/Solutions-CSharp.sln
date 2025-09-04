@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solutions-CSharp", "Solutions-CSharp.csproj", "{8ACFD811-112B-4E72-96D4-292A8D5ECD67}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{87DEA35B-E226-4D2C-B445-77BA4D584FE5}"
-	ProjectSection(SolutionItems) = preProject
-		TasksCompleted.txt = TasksCompleted.txt
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

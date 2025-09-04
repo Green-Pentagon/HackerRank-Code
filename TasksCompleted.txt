@@ -1,0 +1,3 @@
+This Solution contains solutions to the following problems:
+
+- Forming Magic Square = 2025-09-04\Solutions-CSharp https://www.hackerrank.com/challenges/magic-square-forming

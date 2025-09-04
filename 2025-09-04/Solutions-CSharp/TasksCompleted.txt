@@ -1,2 +1,0 @@
-This Solution contains solutions to the following problems:
-- Solve me First Task (test to ensure the repo is working as needed): https://www.hackerrank.com/challenges/solve-me-first
